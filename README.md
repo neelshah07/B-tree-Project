@@ -102,8 +102,7 @@ python experiment3_tree_depth.py
 ├── results/                      # Output CSVs for graphing
 ├── patch_script.py               # Script used to inject printf hooks
 ├── build_sqlite.bat              # MSVC/GCC compilation script
-├── presentation_outline.md       # Deck structure for project defense
-└── viva_qa.md                    # Core Q&A for architectural decisions
+└── full_report.md                # Comprehensive Project Report
 ```
 
 ---
