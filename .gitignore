@@ -1,0 +1,20 @@
+# Compiled binaries and object files
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.ilk
+
+# Databases
+*.db
+*-wal
+*-shm
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
