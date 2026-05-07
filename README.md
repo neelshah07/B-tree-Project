@@ -101,8 +101,7 @@ python experiment3_tree_depth.py
 │   ├── experiment4_btree_tracing.py # Real-time custom engine runner
 ├── results/                      # Output CSVs for graphing
 ├── patch_script.py               # Script used to inject printf hooks
-├── build_sqlite.bat              # MSVC/GCC compilation script
-└── full_report.md                # Comprehensive Project Report
+├── full_report.md                # Comprehensive Project Report
 ```
 
 ---
