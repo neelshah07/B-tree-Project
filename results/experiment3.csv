@@ -1,0 +1,7 @@
+n_records,actual_height,theoretical_height
+1000,1,2
+10000,1,2
+50000,1,2
+100000,2,3
+300000,2,3
+500000,2,3
